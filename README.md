@@ -1,2 +1,2 @@
 # Kanzius
-Exploging the Kanzius effect
+Exploring the Kanzius effect
